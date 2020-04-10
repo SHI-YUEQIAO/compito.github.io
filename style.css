@@ -1,0 +1,148 @@
+#diyitiaobeijing{
+    width: 100%;
+    height: 115px;
+    background-color: rgb(255, 255, 255);
+}
+#zongcaidan{
+    width: 1200px;
+    height: 100px;
+    margin: 0px auto;
+    background-color: rgb(255, 255, 255);
+
+}
+#logo{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    position: relative;top: 20px;
+}
+.liugecaidan{
+    width: 170px;
+    height: 38px;
+    font-size: 18px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    float: right;
+    position: relative;top: 62px;right: 20px;   
+}
+#baiseyincang{
+    width: 100%;
+    height: 220px;
+    background-color: rgba(255, 255,255, 0.9);
+    float: left;
+    display: none;
+}
+.baisecenter{
+    width: 1200px;
+    height: 220px;
+    background-color: none;
+    margin: 0px auto;
+}
+.yincangdewenzi{
+    width: 170px;
+    height: 190px;
+    font-size: 15px;
+    color: dimgrey;
+    text-align: center;
+    background-color: none;
+    position: relative;right: 20px;top: 30px;
+    line-height: 35px;
+    float: right;
+}
+#diyitiaobeijing:hover>#baiseyincang{
+    display: block;
+}
+/*#yinying{
+    width: 100%;
+    height: 15px;
+    background-color: rgb(255, 255, 255);
+}*/
+#yinying2{
+    width: 100%;
+    height: 5px;
+    background-color: rgb(240, 232, 232);
+}
+#zhutu{
+    width: 1200px;
+    height: 520px;
+    background-image: url(image/toutu1.jpg);
+    position: relative;top: 50px;
+    z-index: -15;
+    margin: 0px auto;
+}
+#chanpintu{
+    width: 1200px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+}
+#chanpintu1{
+    width: 750px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+  
+}
+#chanpintu2{
+    width: 50px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    float: left;
+}
+#chanpinwenzi{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    float: left;
+}
+#chanpinwenzi>div:nth-child(1){
+    width: 400px;
+    height: 120px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#chanpinwenzi>div:nth-child(2){
+    width: 400px;
+    height: 180px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+#chanpinwenzi>div:nth-child(3){
+    width: 200px;
+    height: 60px;
+    background-color: rgb(253, 190, 15);
+    float: left;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 17px;
+    position: relative;top: 40px;
+}
+#dongtu1{
+    width: 1200px;
+    height: 100px;
+    background-color: rgb(255, 251, 249);
+    margin: 0px auto;
+}
+#dongtu2{
+    width: 1200px;
+    height: 100px;
+    background-color: rgb(255, 251, 249);
+    margin: 0px auto;
+}
+#zuihou{
+    width: 100%;
+    height: 309px;
+    background-image: url(image/zuidibuditu.jpg);
+}
+#banquantu{
+    width: 1200px;
+    height: 258px;
+    float: left;
+    position: relative;top: 40px;
+}
